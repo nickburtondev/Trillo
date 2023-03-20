@@ -1,4 +1,4 @@
 # Trillo
 Tailwind colors curation.
 SVG icons.
-![image](https://user-images.githubusercontent.com/125829913/226487063-91e4c8a4-036b-4ea9-9c4f-9374252c5063.png)
+![image](https://user-images.githubusercontent.com/125829913/226487821-a0d69ef4-f034-4d72-8708-415f7451f97a.png)
